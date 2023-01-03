@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_icon">
+    <sys_sg_icon action="INSERT_OR_UPDATE">
+        <icon>{"Name":"Thumbs Down","Value":"f165","FontColor":"#7D7D7D","FontName":"now-mobile-icons","Shape":"Circle"}</icon>
+        <name>Thumbs Down</name>
+        <sys_class_name>sys_sg_icon</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-01-03 10:21:21</sys_created_on>
+        <sys_id>efa190632f846110cf14fe1df699b69d</sys_id>
+        <sys_name>Thumbs Down</sys_name>
+        <sys_package display_value="To Do" source="x_922996_to_do">af938c9f2f842110cf14fe1df699b6d4</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="To Do">af938c9f2f842110cf14fe1df699b6d4</sys_scope>
+        <sys_update_name>sys_sg_icon_efa190632f846110cf14fe1df699b69d</sys_update_name>
+        <type>font</type>
+    </sys_sg_icon>
+</record_update>

@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_master_item">
+    <sys_sg_master_item action="INSERT_OR_UPDATE">
+        <condition_order/>
+        <datasource_table>x_922996_to_do_to_do</datasource_table>
+        <datasource_table_condition/>
+        <embedded_screen display_value="My To Dos Form Screen">ccb1d0632f846110cf14fe1df699b6de</embedded_screen>
+        <item_view/>
+        <name>My To Dos Form Screen Master Item</name>
+        <sys_class_name>sys_sg_master_item</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-01-03 10:21:23</sys_created_on>
+        <sys_id>08b1d0632f846110cf14fe1df699b6fb</sys_id>
+        <sys_name>My To Dos Form Screen Master Item</sys_name>
+        <sys_package display_value="To Do" source="x_922996_to_do">af938c9f2f842110cf14fe1df699b6d4</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="To Do">af938c9f2f842110cf14fe1df699b6d4</sys_scope>
+        <sys_update_name>sys_sg_master_item_08b1d0632f846110cf14fe1df699b6fb</sys_update_name>
+        <use_view_config>true</use_view_config>
+        <view_config display_value="My To Dos List Screen View Config">37a1d0632f846110cf14fe1df699b61c</view_config>
+    </sys_sg_master_item>
+</record_update>

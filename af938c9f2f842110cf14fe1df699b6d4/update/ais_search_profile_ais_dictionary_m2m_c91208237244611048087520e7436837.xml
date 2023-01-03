@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="ais_search_profile_ais_dictionary_m2m">
+    <ais_search_profile_ais_dictionary_m2m action="INSERT_OR_UPDATE">
+        <dictionary display_value="default_stop_word_dictionary">9865058bc7031010d1cfd9795cc26037</dictionary>
+        <dictionary_reference_qualifier/>
+        <marked_for_deletion>false</marked_for_deletion>
+        <profile display_value="To Do Workspace search profile">c1120823cc446110a3350e0e0c553c56</profile>
+        <sys_class_name>ais_search_profile_ais_dictionary_m2m</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-01-03 09:13:13</sys_created_on>
+        <sys_id>c91208237244611048087520e7436837</sys_id>
+        <sys_name>default_stop_word_dictionary.To Do Workspace search profile</sys_name>
+        <sys_package display_value="To Do" source="x_922996_to_do">af938c9f2f842110cf14fe1df699b6d4</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="To Do">af938c9f2f842110cf14fe1df699b6d4</sys_scope>
+        <sys_update_name>ais_search_profile_ais_dictionary_m2m_c91208237244611048087520e7436837</sys_update_name>
+    </ais_search_profile_ais_dictionary_m2m>
+</record_update>

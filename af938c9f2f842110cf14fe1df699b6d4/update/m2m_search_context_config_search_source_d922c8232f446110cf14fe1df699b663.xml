@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="m2m_search_context_config_search_source">
+    <m2m_search_context_config_search_source action="INSERT_OR_UPDATE">
+        <order>200</order>
+        <search_context_config display_value="To Do Workspace - Workspace Search">c5120823cf44611051f3b0e9524c3755</search_context_config>
+        <source display_value="To Do Workspace - x_922996_to_do_to_do_project">6c2288232f446110cf14fe1df699b6c8</source>
+        <sys_class_name>m2m_search_context_config_search_source</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-01-03 09:13:28</sys_created_on>
+        <sys_id>d922c8232f446110cf14fe1df699b663</sys_id>
+        <sys_name/>
+        <sys_package display_value="To Do" source="x_922996_to_do">af938c9f2f842110cf14fe1df699b6d4</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="To Do">af938c9f2f842110cf14fe1df699b6d4</sys_scope>
+        <sys_update_name>m2m_search_context_config_search_source_d922c8232f446110cf14fe1df699b663</sys_update_name>
+    </m2m_search_context_config_search_source>
+</record_update>
