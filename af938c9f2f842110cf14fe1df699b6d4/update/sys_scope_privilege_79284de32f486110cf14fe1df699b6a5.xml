@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_scope_privilege">
+    <sys_scope_privilege action="INSERT_OR_UPDATE">
+        <operation>read</operation>
+        <source_scope display_value="To Do">af938c9f2f842110cf14fe1df699b6d4</source_scope>
+        <status>allowed</status>
+        <sys_class_name>sys_scope_privilege</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-01-03 14:19:21</sys_created_on>
+        <sys_id>79284de32f486110cf14fe1df699b6a5</sys_id>
+        <sys_name>sys_user</sys_name>
+        <sys_package display_value="To Do" source="x_922996_to_do">af938c9f2f842110cf14fe1df699b6d4</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="To Do">af938c9f2f842110cf14fe1df699b6d4</sys_scope>
+        <sys_update_name>sys_scope_privilege_79284de32f486110cf14fe1df699b6a5</sys_update_name>
+        <target_name>sys_user</target_name>
+        <target_scope display_value="Global">global</target_scope>
+        <target_type>sys_db_object</target_type>
+    </sys_scope_privilege>
+</record_update>

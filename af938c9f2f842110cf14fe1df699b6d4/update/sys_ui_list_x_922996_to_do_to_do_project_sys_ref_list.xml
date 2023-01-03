@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_ui_list parent="" relationship="" sys_domain="global" table="x_922996_to_do_to_do_project" version="2" view="sys_ref_list">
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>project</element>
+            <list_id display_value="x_922996_to_do_to_do_project" element="NULL" name="x_922996_to_do_to_do_project" parent="NULL" relationship="NULL" sys_domain="global" view="889fc260f90211108c8bd16244dfe72a">601059ab2f486110cf14fe1df699b666</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>0</position>
+            <sum>false</sum>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2023-01-03 14:53:57</sys_created_on>
+            <sys_id>ec1059ab2f486110cf14fe1df699b667</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2023-01-03 14:53:57</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element/>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <name>x_922996_to_do_to_do_project</name>
+            <parent/>
+            <position/>
+            <relationship/>
+            <sum>false</sum>
+            <sys_class_name>sys_ui_list</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2023-01-03 14:53:57</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>601059ab2f486110cf14fe1df699b666</sys_id>
+            <sys_name>x_922996_to_do_to_do_project</sys_name>
+            <sys_package display_value="To Do" source="x_922996_to_do">af938c9f2f842110cf14fe1df699b6d4</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="To Do">af938c9f2f842110cf14fe1df699b6d4</sys_scope>
+            <sys_update_name>sys_ui_list_x_922996_to_do_to_do_project_sys_ref_list</sys_update_name>
+            <sys_user/>
+            <view display_value="Reference List" name="sys_ref_list">889fc260f90211108c8bd16244dfe72a</view>
+            <view_name/>
+        </sys_ui_list>
+    </sys_ui_list>
+</record_update>
